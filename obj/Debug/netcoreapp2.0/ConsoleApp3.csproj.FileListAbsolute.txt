@@ -1,0 +1,11 @@
+d:\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+d:\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.0\ConsoleApp3.AssemblyInfoInputs.cache
+d:\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.0\ConsoleApp3.AssemblyInfo.cs
+d:\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.0\ConsoleApp3.deps.json
+d:\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.0\ConsoleApp3.runtimeconfig.json
+d:\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.0\ConsoleApp3.runtimeconfig.dev.json
+d:\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.0\ConsoleApp3.dll
+d:\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.0\ConsoleApp3.pdb
+d:\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.0\ConsoleApp3.dll
+d:\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.0\ConsoleApp3.pdb
+d:\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.0\ConsoleApp3.csprojResolveAssemblyReference.cache
